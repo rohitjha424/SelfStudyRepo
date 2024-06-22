@@ -15,6 +15,7 @@ const c = {
 }
 c['Naima']=6
 console.log(c)
+
 //Question 5 ----- Dictionary
 
 const Dic = {
