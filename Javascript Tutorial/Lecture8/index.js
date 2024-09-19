@@ -32,7 +32,6 @@ switch(b){
 
 let num = parseInt(prompt("Enter a number"))
 
-//Check divisible by 2:
 
 if(num%2==0 && num%3==0){
     alert("Number is Divible by 2 and 3 both")
@@ -47,7 +46,6 @@ else{
 
 let n = parseInt(prompt("Enter a number"))
 
-//Check divisible by 2:
 
 if(n%2==0 || n%3==0){
     alert("Number is Divible by 2 or 3 ")
